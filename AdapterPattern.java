@@ -1,4 +1,3 @@
-/* Online Java Compiler and Editor */
 public class HelloWorld{
     
     public interface Car{
